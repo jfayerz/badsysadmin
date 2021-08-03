@@ -1,0 +1,16 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "badsysadmin"
+theme = "ghostwriter"
+
+[Params]
+	mainSections = ["post"]
+	intro = true
+	headline = "The Face You Save May Be Your Own"
+	description = ""
+	github = "https://github.com/jfayerz"
+	opengraph = true
+	dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+	post = "/:filename/"
